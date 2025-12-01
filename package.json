@@ -1,9 +1,9 @@
 {
-  "name": "choreo-2go",
+  "name": "choreo",
   "version": "1.0.0",
   "description": "choreo",
   "main": "index.js",
-  "author": "eooce",
+  "author": "baipiao-max",
   "repository": "",
   "license": "MIT",
   "private": false,
